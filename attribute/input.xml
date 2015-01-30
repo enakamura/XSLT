@@ -1,0 +1,7 @@
+<root>
+	<rule>
+		<serviceName>IB</serviceName>
+		<businessService>CRD_Create_CreditRecharge/biz/ServicoIB</businessService>
+		<isProxy>false</isProxy>
+	</rule>
+</root>
