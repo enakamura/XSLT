@@ -1,0 +1,14 @@
+<ROOT>
+    <BODY>
+        <data>
+            <operation-type>string</operation-type>
+            <msisdn>number</msisdn>
+            <amount-reload>string</amount-reload>
+            <operation-cost>string</operation-cost>
+            <operation-date>string</operation-date>
+            <reload-date>string</reload-date>
+            <cbi-code>string</cbi-code>
+            <cba-code>string</cba-code>
+        </data>
+    </BODY>
+</ROOT>
