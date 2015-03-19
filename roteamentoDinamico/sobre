@@ -7,3 +7,12 @@ Utilizar as XSL:
 2. DynamicRouting - usar a variavel A como entrada e salvar o resultado em uma variavel B
 
 Colocar a variavel B na action Dynamic Routing.
+
+Exemplo de servicos utilizando em anexo (OSB 12c):
+CRD_Create_CreditRecharge
+SCOPINCALL
+
+Eles utilizam metadados que se encontram dentro do projeto
+Metadata
+
+Quando for utilizar qualquer um dos dois projetos no jdev, importar antes o Metadata.
