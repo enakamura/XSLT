@@ -1,0 +1,9 @@
+Roteamento Dinamico no Business Service
+
+Utilizar action de assign. Opção expression > XSLT Resource
+Utilizar as XSL:
+
+1. roouteRule - salvar em um variavel A
+2. DynamicRouting - usar a variavel A como entrada e salvar o resultado em uma variavel B
+
+Colocar a variavel B na action Dynamic Routing.
