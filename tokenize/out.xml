@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<sequence>A1,A2,A3,A4</sequence>
+	<itens>
+		<item>A1</item>
+		<item>A2</item>
+		<item>A3</item>
+		<item>A4</item>
+	</itens>
+</root>
