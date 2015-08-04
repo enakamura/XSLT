@@ -1,0 +1,18 @@
+<root xmlns:mes="http://namespace/do/mes">
+	<mes:property>
+		<mes:name>ServiceName</mes:name>
+		<mes:value>PFE_CONCESSAO_CREDITO</mes:value>
+	</mes:property>
+	<mes:property>
+		<mes:name>ResultCode</mes:name>
+		<mes:value>1</mes:value>
+	</mes:property>
+	<mes:property>
+		<mes:name>RemoteId</mes:name>
+		<mes:value>1234567890</mes:value>
+	</mes:property>
+	<mes:property>
+		<mes:name>Version</mes:name>
+		<mes:value>1</mes:value>
+	</mes:property>
+</root>
