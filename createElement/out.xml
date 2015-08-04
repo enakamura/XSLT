@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:mes="http://namespace/do/mes">
+	<ServiceName>PFE_CONCESSAO_CREDITO</ServiceName>
+	<ResultCode>1</ResultCode>
+	<RemoteId>1234567890</RemoteId>
+	<Version>1</Version>
+</root>
