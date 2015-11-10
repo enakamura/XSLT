@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ROOT>
+   <BODY>
+      <OUTPUT>{
+			"header":{
+			"tid":"Teste",
+			"resultCode":1010,
+			"errorType":"-4000",
+			"errorDescription":"",
+			"errorDetail":""
+			},
+			"body":{
+			"msisdn":12345678988,
+			"cpfCnpj":36925814701
+			}}</OUTPUT>
+   </BODY>
+</ROOT> 
