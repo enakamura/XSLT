@@ -1,0 +1,20 @@
+<ROOT>
+	<BODY>
+		<OUTPUT>
+			<sopa:a xmlns:sopa="sopa" xmlns:sieb="sieb" xmlns:tcc="tcc">
+				<sopa:b/>
+				<sopa:c>
+					<sieb:d>
+						<tcc:e>
+							<tcc:f>
+								<tcc:result-date>result_date</tcc:result-date>
+								<tcc:result-code>result_code</tcc:result-code>
+								<tcc:result-desc>result_desc</tcc:result-desc>
+							</tcc:f>
+						</tcc:e>
+					</sieb:d>
+				</sopa:c>
+			</sopa:a>
+		</OUTPUT>
+	</BODY>
+</ROOT>
