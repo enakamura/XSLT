@@ -11,6 +11,7 @@
 			},
 			"body":{
 			"msisdn":12345678988,
+			"tiposEndereco":["RUA","AVENIDA"]
 			"cpfCnpj":36925814701
 			}}</OUTPUT>
    </BODY>
