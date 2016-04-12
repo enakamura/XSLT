@@ -26,6 +26,9 @@
 	
 	
 	<!--
+	Use http://www.epochconverter.com/ to create epoch time in miliseconds
+	-->
+	<!--
 	from: http://stackoverflow.com/questions/27990478/convert-epoch-to-date-via-xsl-from-xml-attribute-and-display-in-html
 	user: http://stackoverflow.com/users/3016153/michael-hor257k
 	-->
